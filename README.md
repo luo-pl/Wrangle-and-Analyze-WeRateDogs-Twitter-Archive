@@ -2,9 +2,9 @@
 
 Introduction
 ------------
-[WeRateDogs] (https://twitter.com/dog_rates) is a Twitter account that is well-known for its pictures and commentary of dogs. Its popularity is built upon the internet's obsession with dogs, and its unique rating system that reflects how good all dogs are.
+[WeRateDogs](https://twitter.com/dog_rates) is a Twitter account that is well-known for its pictures and commentary of dogs. Its popularity is built upon the internet's obsession with dogs, and its unique rating system that reflects how good all dogs are.
 
-The data for this project was gathered from three different sources. The first dataset was loaded from the downloaded file 'twitter-archive-enhanced.csv'. The second dataset was programmatically requested from [here] (https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv). The third dataset was gathered from the .json data accessed from the Twitter API through Tweepy.
+The data for this project was gathered from three different sources. The first dataset was loaded from the downloaded file 'twitter-archive-enhanced.csv'. The second dataset was programmatically requested from [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv). The third dataset was gathered from the .json data accessed from the Twitter API through Tweepy.
 
 The goal of this project is to wrangle (gather, assess, clean) and then apply analysis with visualization for three insights:
 
